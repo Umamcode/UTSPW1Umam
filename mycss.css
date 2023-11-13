@@ -1,0 +1,25 @@
+body {
+    background-color: #FFD28F;
+}
+nav {
+    text-align: right;
+}
+fieldset{
+    background-color: #FFE3BB;
+    margin: 10px 400px;
+}
+#submit{
+    box-shadow: 4px 3px 2px;
+    background-color: greenyellow;
+    color: black;
+}
+#update {
+    box-shadow: 4px 3px 2px;
+    background-color: yellow;
+    color: black;
+}
+#reset {
+    box-shadow: 4px 3px 2px;
+    background-color: red;
+    color: black;
+}
